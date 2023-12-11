@@ -22,7 +22,7 @@
 - 🌐 Advocate for the growth and adoption of open-source technologies
 
 ### Get in Touch
-- 📫 Email: anvasquezge@gmail.com (Feel free to copy and paste this address into your email client)
+- 📫 Email: anvasquezge@gmail.com
 - 📧 You can reach out to me via email for collaboration or inquiries
 <!--
 **angelvasquez06/angelvasquez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
